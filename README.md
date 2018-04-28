@@ -3,7 +3,7 @@ A pre-compiled binary of OpenCV for the Raspberry Pi.   It is available in a ".d
 
 # Super Lazy Version
 ```
-curl -sSf https://github.com/jabelone/OpenCV-for-Pi/raw/master/lazy_install.sh | sh
+curl -sSf https://github.com/jabelone/OpenCV-for-Pi/blob/master/lazy_install.sh | sh
 ```
 Remember to check the script before piping it into your bash! ¯\\_(ツ)_/¯
 
@@ -44,7 +44,7 @@ sudo pip install numpy
   ```
 7) Download and install the file from this repo called "latest-OpenCV.deb".
   ```
-wget "https://github.com/jabelone/OpenCV-for-Pi/raw/master/latest-OpenCV.deb"
+wget "https://github.com/jabelone/OpenCV-for-Pi/blob/master/latest-OpenCV.deb"
 sudo dpkg -i latest-OpenCV.deb
   ```
 8) Test it installed correctly by doing the following:
