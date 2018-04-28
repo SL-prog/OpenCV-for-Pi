@@ -7,5 +7,5 @@ sudo python get-pip.py
 
 sudo pip install numpy
 
-wget "https://github.com/jabelone/OpenCV-for-Pi/raw/master/latest-OpenCV.deb"
+wget "https://github.com/jabelone/OpenCV-for-Pi/blob/master/latest-OpenCV.deb"
 sudo dpkg -i latest-OpenCV.deb
